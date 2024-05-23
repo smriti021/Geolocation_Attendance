@@ -12,3 +12,13 @@ This Geolocation Attendance system has the following features:-
 * Add new users/employees data (username/password)
 * View employee's attendance
 * Check whether employee's attendance was marked from the correct location at correct time or not
+
+
+Libraries/Languages Requirements:
+
+* Python 3.8 or above
+* Latest pip
+* Django
+* HTML
+* JavaScript
+* SQLlite3
